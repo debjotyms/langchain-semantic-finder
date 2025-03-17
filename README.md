@@ -4,4 +4,4 @@ This is a simple semantic search application built with LangChain. It helps user
 
 Used https://excalidraw.com/ to draw the workflow diagram.
 
-![Workflow Diagram](./workflow-semantic-finder.png)
+![Workflow Diagram](./workflow-diagram-semantic-finder.png)
